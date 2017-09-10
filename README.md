@@ -3,7 +3,7 @@
 This is the source code for the blog post
 
 https://exampledriven.wordpress.com/2016/11/04/spring-boot-heroku-example/
-
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 ## Deploy using git
 ``` shell
 #Download an empty spring boot application
